@@ -1,0 +1,4 @@
+Bonjour, 
+
+Tout les Donnée save seront stoker localement dans votre appareil 
+Personne d'autre ne pout y accéder.
